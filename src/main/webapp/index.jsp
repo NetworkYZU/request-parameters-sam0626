@@ -14,7 +14,7 @@
         lab3: 輸入中文試試看
         lab4: 建立一個新的 servlet，怎麼改變 action 去對應？
         -->
-        <form action="form1" method="GET">
+        <form action="form1" method="POST">
             name: <input type="text" name="username"/><br/>
             password: <input type="password" name="password"></input><br/>
             <input type="submit"/>
